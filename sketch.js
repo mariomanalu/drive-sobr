@@ -158,8 +158,8 @@ function drawWordsScene2(x) {
   // and the vertical position
   fill(0);
   stroke('white');
-  text('Your accuracy is 68%.', x, 80);
-  text('Your response time is 1.2s.', x, 150);
+  text('Your accuracy is 88%.', x, 80);
+  text('Your response time is 0.8s.', x, 150);
   text('Click to go to the next game.', x, 300);
 }
 
@@ -181,7 +181,7 @@ function drawWordsScene5(x) {
   // and the vertical position
   fill(0);
   stroke('white');
-  text('Your accuracy is 78%.', x, 80);
+  text('Your accuracy is 92%.', x, 80);
   text('Your response time is 5.2s', x, 150);
   text('Click to go to the next game.', x, 300);
 }
@@ -204,7 +204,7 @@ function drawWordsScene8(x) {
   // and the vertical position
   fill(0);
   stroke('white');
-  text('Your accuracy is 72%.', x, 80);
+  text('Your accuracy is 89%.', x, 80);
   text('Your response time is 3.5s', x, 150);
   text('Click to see your result.', x, 300);
 }
